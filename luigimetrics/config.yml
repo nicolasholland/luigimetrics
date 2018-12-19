@@ -1,0 +1,4 @@
+---
+luigi_url: 'http://localhost:8082/static/visualiser/index.html#'
+buffertime: 3
+path_to_driver:

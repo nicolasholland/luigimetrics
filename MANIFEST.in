@@ -1,0 +1,2 @@
+include luigimetrics/config.yml
+global-exclude *.pyc

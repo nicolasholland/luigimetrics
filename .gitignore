@@ -1,0 +1,6 @@
+*.pyc
+ghostdriver.log
+dist/
+build/
+*.egg-info/
+
